@@ -1,0 +1,20 @@
+INDEX VERSION 1.126+D:\Android\dev\Coursera_Week 6_Graphics_Multimedia_Gestures\.metadata\.plugins\org.eclipse.jdt.core
+1852333136.index
+1532757760.index
+2356760794.index
+2883465426.index
+542314625.index
+1471101637.index
+4278516065.index
+4239887034.index
+501291126.index
+822965730.index
+1973088893.index
+688800547.index
+1219712249.index
+2128085575.index
+2248176151.index
+3453308590.index
+4072858034.index
+3163434421.index
+724207290.index

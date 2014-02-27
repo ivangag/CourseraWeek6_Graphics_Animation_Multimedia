@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Eclipse/gradle-1.10-all" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AudioVideoAudioManager" />
+            <option value="$PROJECT_DIR$/AudioVideoAudioRecording" />
+            <option value="$PROJECT_DIR$/AudioVideoCamera" />
+            <option value="$PROJECT_DIR$/AudioVideoRingtoneManager" />
+            <option value="$PROJECT_DIR$/AudioVideoVideoPlay" />
+            <option value="$PROJECT_DIR$/GraphicsBubbleProgram" />
+            <option value="$PROJECT_DIR$/GraphicsBubbleXML" />
+            <option value="$PROJECT_DIR$/GraphicsCanvasBubble" />
+            <option value="$PROJECT_DIR$/GraphicsCanvasBubbleSurfaceView" />
+            <option value="$PROJECT_DIR$/GraphicsFrameAnimation" />
+            <option value="$PROJECT_DIR$/GraphicsPaint" />
+            <option value="$PROJECT_DIR$/GraphicsShapeDraw" />
+            <option value="$PROJECT_DIR$/GraphicsShapeDrawXML" />
+            <option value="$PROJECT_DIR$/GraphicsTransitionDrawable" />
+            <option value="$PROJECT_DIR$/GraphicsTweenAnimation" />
+            <option value="$PROJECT_DIR$/GraphicsValueAnimator" />
+            <option value="$PROJECT_DIR$/GraphicsViewPropertyAnimator" />
+            <option value="$PROJECT_DIR$/TouchGestureViewFlipperTest" />
+            <option value="$PROJECT_DIR$/TouchGestures" />
+            <option value="$PROJECT_DIR$/TouchIndicateTouchLocation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudioVideoAudioManager/AudioVideoAudioManager.iml" filepath="$PROJECT_DIR$/AudioVideoAudioManager/AudioVideoAudioManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioVideoAudioRecording/AudioVideoAudioRecording.iml" filepath="$PROJECT_DIR$/AudioVideoAudioRecording/AudioVideoAudioRecording.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioVideoCamera/AudioVideoCamera.iml" filepath="$PROJECT_DIR$/AudioVideoCamera/AudioVideoCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioVideoRingtoneManager/AudioVideoRingtoneManager.iml" filepath="$PROJECT_DIR$/AudioVideoRingtoneManager/AudioVideoRingtoneManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioVideoVideoPlay/AudioVideoVideoPlay.iml" filepath="$PROJECT_DIR$/AudioVideoVideoPlay/AudioVideoVideoPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coursera_Week 6_Graphics_Multimedia_Gestures.iml" filepath="$PROJECT_DIR$/Coursera_Week 6_Graphics_Multimedia_Gestures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsBubbleProgram/GraphicsBubbleProgram.iml" filepath="$PROJECT_DIR$/GraphicsBubbleProgram/GraphicsBubbleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsBubbleXML/GraphicsBubbleXML.iml" filepath="$PROJECT_DIR$/GraphicsBubbleXML/GraphicsBubbleXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsCanvasBubble/GraphicsCanvasBubble.iml" filepath="$PROJECT_DIR$/GraphicsCanvasBubble/GraphicsCanvasBubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsCanvasBubbleSurfaceView/GraphicsCanvasBubbleSurfaceView.iml" filepath="$PROJECT_DIR$/GraphicsCanvasBubbleSurfaceView/GraphicsCanvasBubbleSurfaceView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsFrameAnimation/GraphicsFrameAnimation.iml" filepath="$PROJECT_DIR$/GraphicsFrameAnimation/GraphicsFrameAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsPaint/GraphicsPaint.iml" filepath="$PROJECT_DIR$/GraphicsPaint/GraphicsPaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsShapeDraw/GraphicsShapeDraw.iml" filepath="$PROJECT_DIR$/GraphicsShapeDraw/GraphicsShapeDraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsShapeDrawXML/GraphicsShapeDrawXML.iml" filepath="$PROJECT_DIR$/GraphicsShapeDrawXML/GraphicsShapeDrawXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsTransitionDrawable/GraphicsTransitionDrawable.iml" filepath="$PROJECT_DIR$/GraphicsTransitionDrawable/GraphicsTransitionDrawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsTweenAnimation/GraphicsTweenAnimation.iml" filepath="$PROJECT_DIR$/GraphicsTweenAnimation/GraphicsTweenAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsValueAnimator/GraphicsValueAnimator.iml" filepath="$PROJECT_DIR$/GraphicsValueAnimator/GraphicsValueAnimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsViewPropertyAnimator/GraphicsViewPropertyAnimator.iml" filepath="$PROJECT_DIR$/GraphicsViewPropertyAnimator/GraphicsViewPropertyAnimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouchGestureViewFlipperTest/TouchGestureViewFlipperTest.iml" filepath="$PROJECT_DIR$/TouchGestureViewFlipperTest/TouchGestureViewFlipperTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouchGestures/TouchGestures.iml" filepath="$PROJECT_DIR$/TouchGestures/TouchGestures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TouchIndicateTouchLocation/TouchIndicateTouchLocation.iml" filepath="$PROJECT_DIR$/TouchIndicateTouchLocation/TouchIndicateTouchLocation.iml" />
+    </modules>
+  </component>
+</project>
+
