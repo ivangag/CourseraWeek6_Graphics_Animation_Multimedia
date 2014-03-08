@@ -34,6 +34,7 @@ public class ViewFlipperTestActivity extends Activity {
 					@Override
 					public boolean onFling(MotionEvent e1, MotionEvent e2,
 							float velocityX, float velocityY) {
+
 						if (velocityX < -10.0f) {
 							mCurrentLayoutState = mCurrentLayoutState == 0 ? 1
 									: 0;
